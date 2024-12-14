@@ -76,9 +76,11 @@ This repository includes the following visualizations for each dataset:
 5. **3D Scatter Plots**: For multiple regression results.
 
 
-![Visualization](images/3.png "Scatter_Diagramm")
-![Visualization](images/8.png "RealVSPredicted")
-![Visualization](images/12.png "PredictedVSReal")
+![Visualization](MEPHI_Stats_Homework_Module5/3.png "Scatter_Diagramm")
+![Visualization](MEPHI_Stats_Homework_Module5
+/8.png "RealVSPredicted")
+![Visualization](MEPHI_Stats_Homework_Module5
+/12.png "PredictedVSReal")
 ---
 
 ## 🚀 How to Use
