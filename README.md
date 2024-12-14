@@ -75,6 +75,10 @@ This repository includes the following visualizations for each dataset:
 4. **Regression Plots**: To compare actual and predicted values.
 5. **3D Scatter Plots**: For multiple regression results.
 
+
+![Visualization](images/3.png "Scatter_Diagramm")
+![Visualization](images/8.png "RealVSPredicted")
+![Visualization](images/12.png "PredictedVSReal")
 ---
 
 ## 🚀 How to Use
@@ -82,3 +86,5 @@ This repository includes the following visualizations for each dataset:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnnaPerova88/MEPHI_Stats_Homework_Module5.git
+
+   
