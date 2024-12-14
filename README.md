@@ -76,10 +76,20 @@ This repository includes the following visualizations for each dataset:
 5. **3D Scatter Plots**: For multiple regression results.
 
 
-![Visualization](3.png "Scatter_Diagramm")
-![Visualization](9.png "RealVSPredicted")
-![Visualization](10.png "RealVSPredicted")
-![Visualization](12.png "PredictedVSReal")
+![Visualization](01.png "01")
+![Visualization](02.png "02")
+![Visualization](1.png "1")
+![Visualization](2.png "2")
+![Visualization](3.png "3")
+![Visualization](4.png "4")
+![Visualization](5.png "5")
+![Visualization](6.png "6")
+![Visualization](7.png "7")
+![Visualization](8.png "8")
+![Visualization](9.png "9")
+![Visualization](10.png "10")
+![Visualization](11.png "11")
+![Visualization](12.png "12")
 ---
 
 ## 🚀 How to Use
