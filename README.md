@@ -81,4 +81,4 @@ This repository includes the following visualizations for each dataset:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/data-analysis-project.git
+   git clone https://github.com/AnnaPerova88/MEPHI_Stats_Homework_Module5.git
