@@ -77,7 +77,7 @@ This repository includes the following visualizations for each dataset:
 
 
 ![Visualization](3.png "Scatter_Diagramm")
-![Visualization](8.png "RealVSPredicted")
+![Visualization](5.png "RealVSPredicted")
 ![Visualization](12.png "PredictedVSReal")
 ---
 
